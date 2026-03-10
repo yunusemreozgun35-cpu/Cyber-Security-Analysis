@@ -14,7 +14,7 @@ Furthermore, having hands-on operational experience in the hospitality sector, I
 * 📄 **[Case Study: Personal Email Security and CIA Triad Assessment](./personal-email-security.md)**
   A foundational analysis evaluating the baseline security posture of a personal email ecosystem. It explores authentication protocols (SPF, DKIM, DMARC), proactive sandbox scanning, and the critical importance of offline backups to mitigate cloud-dependency risks.
 
-* 📄 **[SOC Concept Design for a Local Branch of a Global Hotel Chain](./Soc-concept-design.md)**
+* 📄 **[SOC Concept Design for a Local Branch of a Global Hotel Chain](./soc-concept-design.md)**
   A macro-level architectural design tailored for the hospitality industry. This project addresses real-world operational bottlenecks (understaffed IT, BYOD violations) and designs a converged SOC that integrates IT monitoring (EDR/NDR) with Physical Security (PSIM) to defend against hybrid threats and OT (Operational Technology) sabotage.
 
 ## Core Competencies Displayed
