@@ -41,7 +41,7 @@ Buna ek olarak, konaklama ve hizmet sektöründe bizzat sahada çalışmış bir
 * 📄 **[Vaka Analizi: Kişisel E-Posta Güvenliği ve CIA Üçgeni Değerlendirmesi](./personal-email-security.md)**
   Kişisel bir e-posta ekosisteminin temel güvenlik duruşunu değerlendiren yapısal bir analiz. Kimlik doğrulama protokollerini (SPF, DKIM, DMARC), proaktif sandbox taramalarını ve bulut bağımlılığı risklerine karşı çevrim dışı yedeklemenin kritik önemini inceler.
 
-* 📄 **[Küresel Bir Otel Zincirinin Yerel Şubesi İçin SOC Konsept Tasarımı](./soc-hotel-concept.md)**
+* 📄 **[Küresel Bir Otel Zincirinin Yerel Şubesi İçin SOC Konsept Tasarımı](./SOC-hotel-concept.md)**
   Konaklama sektörüne özel, makro düzeyde bir mimari tasarım. Bu proje, sahadaki gerçek operasyonel darboğazları (yetersiz BT kadrosu, BYOD ihlalleri) ele alır ve hibrit tehditler ile OT (Operasyonel Teknoloji) sabotajlarına karşı IT izlemesini (EDR/NDR) Fiziksel Güvenlik (PSIM) ile birleştiren bütünleşik bir SOC tasarlar.
 
 ## Sergilenen Temel Yetkinlikler
